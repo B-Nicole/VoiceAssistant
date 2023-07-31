@@ -11,6 +11,8 @@ Challenges: Connecting to my samsung television and response time
 
 ### What I learned: 
  
+### Requirements
+Python 3.9
 
 ### Packages/Moduels Used and needed for usage
 
